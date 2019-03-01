@@ -5,3 +5,10 @@
 I did not document these days here on Github but rather over on Twitter.  Link below
 
 [#100daysOfCode Collection](https://twitter.com/Patpizo/timelines/1101134772217266177)
+
+
+### Day 28
+
+I went to a developer meeting today and picked up some nice nuggets from those with jobs in the industry.  One that I keep hearing over and over again is code everyday.  That's what is so lovely about the 100 Days of Code challenge!  I also completed the Javascript track on Free Code Camp
+
+[Proof](https://www.freecodecamp.org/certification/pz445/javascript-algorithms-and-data-structures)
