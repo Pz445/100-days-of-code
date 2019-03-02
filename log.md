@@ -12,3 +12,7 @@ I did not document these days here on Github but rather over on Twitter.  Link b
 I went to a developer meeting today and picked up some nice nuggets from those with jobs in the industry.  One that I keep hearing over and over again is code everyday.  That's what is so lovely about the 100 Days of Code challenge!  I also completed the Javascript track on Free Code Camp
 
 [Proof](https://www.freecodecamp.org/certification/pz445/javascript-algorithms-and-data-structures)
+
+### Day 29
+
+Today I installed React on my computer and started doing the tutorial tic-tac-toe game from the React website.
