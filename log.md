@@ -19,4 +19,4 @@ Today I installed React on my computer and started doing the tutorial tic-tac-to
 
 ### Day 30
 
-Today I did some more algorithms on Free Code Camp.  Although I already have the Javascript certificate, I had trouble with some algorithms and skipped them.  I also fiddled around with React and created a navbar.  I tested to see how CSS hierarchy worked in React and learned that child CSS will overwrite the Parent CSS.  I am excited to keep learning this framework and build some cool stuff.
+Today I did some more algorithms on Free Code Camp.  Although I already have the Javascript certificate, I had trouble with some algorithms and skipped them.  I also fiddled around with React and created a navbar.  I tested to see how CSS hierarchy worked in React and learned that child CSS will overwrite the Parent CSS.  I am excited to continue learning this framework and build some cool stuff.
