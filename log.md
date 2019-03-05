@@ -24,3 +24,7 @@ Today I did some more algorithms on Free Code Camp.  Although I already have the
 ### Day 31
 
 Moving into the second third of the challenge and I found myself digging deeper into React.  I learned a bit about state, rendering, and JSX by starting the React course on Codecademy.
+
+### Day 32
+
+Today I did about 2 hours of React learning.  It is starting to sink in and stick.
