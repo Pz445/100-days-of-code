@@ -28,3 +28,7 @@ Moving into the second third of the challenge and I found myself digging deeper 
 ### Day 32
 
 Today I did about 2 hours of React learning.  It is starting to sink in and stick.
+
+### Day 33
+
+I am still going through the React course on Codecademy as well as doing the React challenges on Free Code Camp
