@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 34
+
+I finished up on the Codecademy React course.  Learned about state and lifecycle.  May have to go through it a few times for it to really stick.  I also did a simple Javascript rock-paper-scissors app [https://github.com/Pz445/Rock_Paper_Scissors](https://github.com/Pz445/Rock_Paper_Scissors)
+
+
 ### Day 33
 
 I am still going through the React course on Codecademy as well as doing the React challenges on Free Code Camp
