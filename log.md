@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 35
+
+More React today with Scrimba and Free Code Camp.  Once I learn React Router, I am going to dive into recoding my RPG Rando site.
+
+
 ### Day 34
 
 I finished up on the Codecademy React course.  Learned about state and lifecycle.  May have to go through it a few times for it to really stick.  I also did a simple Javascript rock-paper-scissors app [https://pz445.github.io/Rock_Paper_Scissors/](https://pz445.github.io/Rock_Paper_Scissors/)
