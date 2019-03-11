@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 38
+
+I finished the Scrimba React tutorial as well as the Free Code Camp section on React.  Ready to start learning SASS next as well as building some React projects.
+
+
+### Day 37
+
+Today, I learned about forms within React
+
+
+### Day 36
+
+I learned React Router today and applied it to my random generator site
+
+
 ### Day 35
 
 More React today with Scrimba and Free Code Camp.  Once I learn React Router, I am going to dive into recoding my RPG Rando site.
